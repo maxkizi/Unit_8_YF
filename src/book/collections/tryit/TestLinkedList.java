@@ -1,4 +1,4 @@
-package book.tryit;
+package book.collections.tryit;
 
 import java.util.LinkedList;
 import java.util.List;
