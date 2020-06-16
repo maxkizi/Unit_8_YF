@@ -1,4 +1,4 @@
-package book;
+package book.collections;
 
 import java.util.ArrayList;
 import java.util.List;
